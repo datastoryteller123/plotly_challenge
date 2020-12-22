@@ -1,12 +1,14 @@
 # plotly_challenge
 
-Belly Button Diversity
+# Belly Button Diversity
 
 Data
+
 
 samples.json
 
 Static/JS
+
 
 .gitkeep
 app
