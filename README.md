@@ -3,9 +3,11 @@
 Belly Button Diversity
 
 Data
+
 samples.json
 
 Static/JS
+
 .gitkeep
 app
 bonus
