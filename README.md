@@ -2,19 +2,19 @@
 
 # Belly Button Diversity
 
-Data
+# Data
 
 
 samples.json
 
-Static/JS
+# Static/JS
 
 
 .gitkeep
 app
 bonus
 
-index.html
+# index.html
 
 
 
